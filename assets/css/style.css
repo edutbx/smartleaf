@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Inconsolata", monospace;
-  color: #0d1e2d;
+  background-color:#fafafa;
 }
 
 a {
@@ -152,7 +152,8 @@ h6,
 
 .testimonial-wrap {
   padding: 50px 50px 80px 50px;
-  background: #eceff2;
+  background: #3C58A2;
+  color: white;
 }
 
 .testimonial-wrap .testimonial {
@@ -214,7 +215,7 @@ h6,
 .testimonials-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: rgba(13, 30, 45, 0.3);
+  background-color: rgba(30, 144, 243, 0.3);
   opacity: 1;
 }
 
